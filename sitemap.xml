@@ -3,21 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ChinaXhm.github.io/asdf/</loc>
+    <loc>https://iccy-code.github.io/ksd/</loc>
+    <lastmod>2019-12-09T17:50:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iccy-code.github.io/</loc>
+    <lastmod>2019-12-09T17:50:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iccy-code.github.io/asdf/</loc>
     <lastmod>2019-12-09T16:40:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ChinaXhm.github.io/</loc>
-    <lastmod>2019-12-09T16:40:35+08:00</lastmod>
+    <loc>https://iccy-code.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ChinaXhm.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ChinaXhm.github.io/tags/</loc>
+    <loc>https://iccy-code.github.io/tags/</loc>
   </url>
   
 </urlset>
