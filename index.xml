@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>https://ChinaXhm.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 09 Dec 2019 16:40:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://ChinaXhm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asdf</title>
+      <link>https://ChinaXhm.github.io/asdf/</link>
+      <pubDate>Mon, 09 Dec 2019 16:40:35 +0800</pubDate>
+      
+      <guid>https://ChinaXhm.github.io/asdf/</guid>
+      <description>ashdfjashgdjfgashdfgshadf</description>
+    </item>
+    
+  </channel>
+</rss>
