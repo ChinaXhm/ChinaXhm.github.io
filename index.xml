@@ -29,9 +29,8 @@
       <pubDate>Tue, 10 Dec 2019 13:15:24 +0800</pubDate>
       
       <guid>https://ChinaXhm.github.io/test/</guid>
-      <description>&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD  测试
- #include &amp;lt;stdio.h&amp;gt; int main(int argc, char* argv[]) { printf(&amp;#34;Hello Github\n&amp;#34;); return 0; }        3241ac5d62b7391cd2476dc0a79507e3168a6267
-       </description>
+      <description> 测试
+ #include &amp;lt;stdio.h&amp;gt; int main(int argc, char* argv[]) { printf(&amp;#34;Hello Github\n&amp;#34;); return 0; } </description>
     </item>
     
   </channel>
