@@ -6,12 +6,17 @@
     <description>Recent content in 标签 on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+<<<<<<< HEAD
     <lastBuildDate>Thu, 12 Dec 2019 21:26:24 +0800</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 10 Dec 2019 13:15:24 +0800</lastBuildDate>
+>>>>>>> b47cac4a0c25457dfe41bb3170f0777ac32b9aab
     
 	<atom:link href="https://ChinaXhm.github.io/tags/%E6%A0%87%E7%AD%BE/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>数组增删查</title>
       <link>https://ChinaXhm.github.io/array/</link>
       <pubDate>Thu, 12 Dec 2019 21:26:24 +0800</pubDate>
@@ -24,13 +29,19 @@
     </item>
     
     <item>
+=======
+>>>>>>> b47cac4a0c25457dfe41bb3170f0777ac32b9aab
       <title>Test</title>
       <link>https://ChinaXhm.github.io/test/</link>
       <pubDate>Tue, 10 Dec 2019 13:15:24 +0800</pubDate>
       
       <guid>https://ChinaXhm.github.io/test/</guid>
       <description> 测试
+<<<<<<< HEAD
  #include &amp;lt;stdio.h&amp;gt;int main(int argc, char* argv[]) {printf(&amp;#34;Hello Github\n&amp;#34;);return 0;}</description>
+=======
+ #include &amp;lt;stdio.h&amp;gt; int main(int argc, char* argv[]) { printf(&amp;#34;Hello World\n&amp;#34;); return 0; } </description>
+>>>>>>> b47cac4a0c25457dfe41bb3170f0777ac32b9aab
     </item>
     
   </channel>
