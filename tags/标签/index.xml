@@ -23,15 +23,5 @@
   int insert(int nums[],int *numsSize,int index,int value)//指定插入下标位置 { int i=0; if(index&amp;lt;0||index&amp;gt;*numsSize) { return 0; } for(i=*numsSize;i&amp;gt;=index;i--)//首先index 值后的元素全部后移，从最后一个元素开始 	//然后index位置插入值; 	{ nums[i+1]=nums[i]; } nums[index]=value; *numsSize+=1;//*numsSize++,自加一优先级比*高 	return 1; } </description>
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>https://ChinaXhm.github.io/test/</link>
-      <pubDate>Tue, 10 Dec 2019 13:15:24 +0800</pubDate>
-      
-      <guid>https://ChinaXhm.github.io/test/</guid>
-      <description> 测试
- #include &amp;lt;stdio.h&amp;gt; int main(int argc, char* argv[]) { printf(&amp;#34;Hello Github\n&amp;#34;); return 0; } </description>
-    </item>
-    
   </channel>
 </rss>
